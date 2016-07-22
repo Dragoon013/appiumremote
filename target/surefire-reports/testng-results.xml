@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.yourcompany.Remote_SampleSauceTest" duration-ms="91470" started-at="2016-07-20T18:46:18Z" finished-at="2016-07-20T18:47:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="91470" started-at="2016-07-20T18:46:18Z" finished-at="2016-07-20T18:47:49Z">
+      <class name="com.yourcompany.Remote_SampleSauceTest">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.yourcompany.Remote_SampleSauceTest@15975490]" name="main" duration-ms="91452" started-at="2016-07-20T14:46:18Z" finished-at="2016-07-20T14:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.yourcompany.Remote_SampleSauceTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.yourcompany.Remote_SampleSauceTest -->
+</testng-results>
